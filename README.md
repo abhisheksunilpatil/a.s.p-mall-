@@ -16,6 +16,7 @@ In this project we have used PHP which allows to create dynamic content and inte
 ![image](https://user-images.githubusercontent.com/57362149/178138578-6dadc467-d260-4b5e-9dc9-d30288a68dce.png)
 
 
+
 ## Features
 In this mobile shopping aap user can easily purchase any model and can return if not satisfied with the product.
 
