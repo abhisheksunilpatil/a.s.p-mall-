@@ -22,6 +22,9 @@ In this project we have used PHP which allows to create dynamic content and inte
 ![image](https://user-images.githubusercontent.com/57362149/178140886-c426daf5-ac41-4774-8358-acbafaefa26f.png)
 ![image](https://user-images.githubusercontent.com/57362149/178140892-c61a7455-a7c3-4f6e-8526-fe767a6d0cc7.png)
 ![image](https://user-images.githubusercontent.com/57362149/178140898-06ee89c0-162d-4c7d-974f-4bc85f3326e3.png)
+![image](https://user-images.githubusercontent.com/57362149/178140940-9e4dc537-1180-42dd-a02b-c17c0814094e.png)
+![image](https://user-images.githubusercontent.com/57362149/178140972-f381a082-3ed5-4d4f-8b45-4f484ddeb9cd.png)
+![image](https://user-images.githubusercontent.com/57362149/178140988-cdb20c3f-f35a-4300-8cd8-175fa776c82b.png)
 
 
 
